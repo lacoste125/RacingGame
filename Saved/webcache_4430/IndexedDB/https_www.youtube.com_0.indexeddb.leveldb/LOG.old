@@ -1,0 +1,15 @@
+2023/04/06-20:37:30.717 63e0 Reusing MANIFEST C:/Users/mariu/OneDrive/Pulpit/Myszon/Studia/IV/Wprowadzenie do gier mobilnych/sample/RacingGame/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/06-20:37:30.717 63e0 Recovering log #19
+2023/04/06-20:37:30.718 63e0 Reusing old log C:/Users/mariu/OneDrive/Pulpit/Myszon/Studia/IV/Wprowadzenie do gier mobilnych/sample/RacingGame/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000019.log 
+2023/04/06-20:37:58.038 6080 Level-0 table #24: started
+2023/04/06-20:37:58.044 6080 Level-0 table #24: 36360 bytes OK
+2023/04/06-20:37:58.045 6080 Delete type=0 #19
+2023/04/06-20:37:58.046 6080 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/04/06-20:37:58.046 6080 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\xf0\xcd\xa7}uxB\x00\x03\x00\x00\x00\x00\x00\x002@' @ 957 : 1
+2023/04/06-20:37:58.046 6080 Compacting 1@1 + 1@2 files
+2023/04/06-20:37:58.048 6080 Generated table #25@1: 64 keys, 3406 bytes
+2023/04/06-20:37:58.048 6080 Compacted 1@1 + 1@2 files => 3406 bytes
+2023/04/06-20:37:58.048 6080 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/04/06-20:37:58.049 6080 Delete type=2 #21
+2023/04/06-20:37:58.049 6080 Delete type=2 #24
+2023/04/06-20:37:58.049 6080 Manual compaction at level-1 from '\x00\x02\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\xf0\xcd\xa7}uxB\x00\x03\x00\x00\x00\x00\x00\x002@' @ 957 : 1 .. (end); will stop at (end)
